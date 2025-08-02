@@ -52,7 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/badrbrighach/badrbrighach/output/snake.svg" alt="Snake animation" />
-
 
 ###
