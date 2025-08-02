@@ -26,9 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badrbrighach&show_icons=true&locale=en" alt="badrbrighach" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badrbrighach&" alt="badrbrighach" /></p>
-
-
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpdDZ6a3o1MWljc3M5Zzkzd3FrdG53anZxOHE2MXFmOXByenkzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"  />
