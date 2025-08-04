@@ -48,9 +48,10 @@
 </p>
 
 
+
 ###
 
 <br clear="both">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=1000&color=11B303&width=424&lines=%3E+Building.+Breaking.+Learning.+Repeating." alt="Typing SVG" /></a>
 
 ###
